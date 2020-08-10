@@ -17,13 +17,15 @@ header{
     margin-left: .7em;    
 }
 button{
-    margin-left: 6em;
+    position: absolute;
+    top: 1.3em;
+    left: 14em;
    padding: $padding ;
    border-radius: $border ;
    background-color: black;
    color: white;
    width:6.3em;
-   height: 2.4em;
+   height: 2.6em;
    font-size: 1.5em;
    font-weight: bold;
    box-shadow: 0 10px 30px rgba(0,0,0,.2);
