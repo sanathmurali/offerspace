@@ -1,0 +1,64 @@
+html, body {
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+header img {
+  height: 4em;
+  width: 4em;
+  margin-top: 1.2em;
+  margin-left: .7em;
+}
+
+header button {
+  position: relative;
+  bottom: .9em;
+  left: 9em;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  width: 7em;
+  font-size: 1.5em;
+  font-weight: bold;
+  -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+main #content {
+  text-align: center;
+}
+
+main #content h1 {
+  font-size: 5em;
+  margin-top: .7em;
+  text-decoration: none;
+  font-weight: bolder;
+  line-height: .9em;
+}
+
+main #content h1 span {
+  color: #4800f0;
+}
+
+main #content p {
+  font-size: 1.5em;
+  text-decoration: none;
+  display: block;
+  color: #3d3a3a;
+}
+
+main #content button {
+  padding: 15px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  font-size: 1.5em;
+  font-weight: bolder;
+  height: 4em;
+  width: 14em;
+  -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  margin-top: 1em;
+}
+/*# sourceMappingURL=main.css.map */
