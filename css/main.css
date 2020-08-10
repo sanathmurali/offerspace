@@ -11,14 +11,15 @@ header img {
 }
 
 header button {
+  margin-left: 9.4em;
   position: relative;
-  bottom: .9em;
-  left: 8.6em;
+  bottom: .8em;
   padding: 15px;
   border-radius: 10px;
   background-color: black;
   color: white;
-  width: 7em;
+  width: 6.3em;
+  height: 2.4em;
   font-size: 1.5em;
   font-weight: bold;
   -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
