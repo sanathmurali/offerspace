@@ -13,7 +13,7 @@ header img {
 header button {
   position: relative;
   bottom: .9em;
-  left: 9em;
+  left: 3.3em;
   padding: 15px;
   border-radius: 10px;
   background-color: black;
@@ -53,12 +53,12 @@ main #content button {
   border-radius: 10px;
   background-color: black;
   color: white;
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-weight: bolder;
-  height: 4em;
-  width: 14em;
+  height: 3em;
+  width: 12em;
   -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
           box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-  margin-top: 1em;
+  margin-bottom: 1em;
 }
 /*# sourceMappingURL=main.css.map */
