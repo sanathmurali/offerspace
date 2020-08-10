@@ -12,8 +12,6 @@ header img {
 
 header button {
   margin-left: 6em;
-  position: relative;
-  bottom: .8em;
   padding: 15px;
   border-radius: 10px;
   background-color: black;
