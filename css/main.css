@@ -12,15 +12,15 @@ header img {
 
 header button {
   position: absolute;
-  left: 10em;
-  top: 1.1em;
+  left: 14em;
+  top: 2em;
   padding: 15px;
   border-radius: 10px;
   background-color: black;
   color: white;
-  width: 6.3em;
-  height: 2.6em;
-  font-size: 1.5em;
+  width: 7em;
+  height: 3em;
+  font-size: 1em;
   font-weight: bold;
   -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
           box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
